@@ -1,0 +1,18 @@
+Creation Date: 22.05.2024
+Author: Przemyslaw Talarek
+
+Purpose:
+    - generating folder structures,
+    - generating .csv, .json and/or .parquet files containing data about below mentioned areas:
+        - master data:
+            - employees,
+            - customers,
+            - plants/factories,
+            - shops,
+        - transactional (inbound and outbound):
+            - purchase requisitions,
+            - purchase orders,
+            - goods received,
+            - invoices,
+            - returns,
+    - applying quality rules
